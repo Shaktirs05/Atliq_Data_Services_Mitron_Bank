@@ -1,1 +1,14 @@
-# Codebasics_resume_challenge_8
+# Atliq_Data_Service_Mitron_Bank_Insights
+Problem :-
+Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to broaden its product offerings by introducing a new line of credit cards to strengthen its market presence.Mitron Bank wants to launch credit cards to expand its reach. AtliQ Data Services approached the bank with a proposal to assist in this project. However, the bank’s Strategy Director, Mr. Bashnir Rover, requested a pilot project using sample data before proceeding. AtliQ was provided with a dataset of 4,000 customers from five cities, including details on their online spending behavior.Peter Pandey, a data analyst at AtliQ, is responsible for analyzing the sample data. His findings will help Mitron Bank tailor its credit card offerings to better meet customer needs and market trends.
+
+Dataset :-
+dim_customers, fact_spends
+
+Tools :- PowerBI
+Powerbi is used for visualization we use & learn concepts like DAX (Measures, Calulatedcolumn, Calculated Table),Different types of visuals like Bar Chart, Pie Chart, Lime Chart etc.
+
+By using these tool we able to find insights like Income utilisation percentage (Key Metrics) , Demographic insights (no. of male female customers , there income & expenditure), usage of maximum payment type usage etc.
+
+Live Dashboard :- https://app.powerbi.com/view?r=eyJrIjoiOWFiNDBlYWMtYmY0NC00OTY0LTllMDEtMDYwNzBhMWRjOTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
