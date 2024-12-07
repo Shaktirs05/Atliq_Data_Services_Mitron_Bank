@@ -6,9 +6,10 @@ Dataset :-
 dim_customers, fact_spends
 
 Tools :- PowerBI
-Powerbi is used for visualization we use & learn concepts like DAX (Measures, Calulatedcolumn, Calculated Table),Different types of visuals like Bar Chart, Pie Chart, Lime Chart etc.
+Power BI is used for visualization, where we apply and learn concepts like DAX (Measures, Calculated Columns, and Calculated Tables) and work with various visual types such as Bar Charts, Pie Charts, Line Charts, and more.
 
-By using these tool we able to find insights like Income utilisation percentage (Key Metrics) , Demographic insights (no. of male female customers , there income & expenditure), usage of maximum payment type usage etc.
+By using these tools, we can gain insights into key metrics such as income utilization percentage, demographic data (e.g., number of male and female customers, their income and expenditure), and the most commonly used payment methods.
+
 
 Live Dashboard :- https://app.powerbi.com/view?r=eyJrIjoiOWFiNDBlYWMtYmY0NC00OTY0LTllMDEtMDYwNzBhMWRjOTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
