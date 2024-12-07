@@ -5,7 +5,7 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 Dataset :-
 dim_customers, fact_spends
 
-Tools :- PowerBI
+Tools :- 
 Power BI is used for visualization, where we apply and learn concepts like DAX (Measures, Calculated Columns, and Calculated Tables) and work with various visual types such as Bar Charts, Pie Charts, Line Charts, and more.
 
 By using these tools, we can gain insights into key metrics such as income utilization percentage, demographic data (e.g., number of male and female customers, their income and expenditure), and the most commonly used payment methods.
